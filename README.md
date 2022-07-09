@@ -45,5 +45,6 @@ Here is the project pattern:
 <a id="section04"></a> 
 ## Features 
 <p align="center"><a href="https://github.com/lprtk/lprtk">My profil</a> • 
-<a href="https://github.com/lprtk/lprtk">My GitHub</a>
+<a href="https://github.com/lprtk/lprtk">My GitHub</a> • 
+<a href="https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv">Data available on Kaggle</a>
 </p>
